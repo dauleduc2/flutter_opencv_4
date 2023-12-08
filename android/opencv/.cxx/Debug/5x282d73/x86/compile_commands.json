@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ducdau/code/ULC/ulc_mobile/android/opencv/.cxx/Debug/5x282d73/x86",
+  "command": "/Users/ducdau/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/ducdau/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/ducdau/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /Users/ducdau/code/ULC/ulc_mobile/android/opencv/libcxx_helper/dummy.cpp",
+  "file": "/Users/ducdau/code/ULC/ulc_mobile/android/opencv/libcxx_helper/dummy.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/Users/ducdau/code/ULC/ulc_mobile/android/opencv/.cxx/Debug/5x282d73/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/ducdau/code/ULC/ulc_mobile/android/opencv/.cxx/Debug/5x282d73/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ducdau/code/ULC/ulc_mobile/android/opencv/.cxx/Debug/5x282d73/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
